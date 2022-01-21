@@ -12,7 +12,7 @@ body {
   background-image: url('../img/bg-pattern-top.svg'),
     url('../img/bg-pattern-bottom.svg');
   background-repeat: no-repeat;
-  background-size: fit;
+  background-size: contain;
   background-position: left -5em top -25em, right 0 bottom -30em;
   /* background-position: left -20em top -40em, right -20em bottom -35em; */
 }
