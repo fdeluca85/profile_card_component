@@ -7,21 +7,19 @@ body {
   background-color: #19a1ad;
   font-size: 1em;
   font-family: 'Kumbh Sans', sans-serif;
-    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   max-width: 1200px;
   background-image: url('../img/bg-pattern-top.svg'),
     url('../img/bg-pattern-bottom.svg');
   background-repeat: no-repeat;
   background-size: contain;
-  background-position: left -5em top -25em, right 0 bottom -30em;
-  /* background-position: left -20em top -40em, right -20em bottom -35em; */
+  background-position: left -5em top -25em, right 0 bottom -28em;
 }
 main {
-  width: 100vw;
+  /* width: 100vw; */ 
   height: 100vh;
   position: relative;
 }
-h2 {
+h1 {
   font-weight: 600;
   font-size: 1.2em;
   padding: 0.5em;
@@ -90,4 +88,9 @@ p {
   justify-content: center;
   align-items: center;
   padding: 0.5em 1.5em;
+}
+.attribution{
+  text-align: center;
+  font-size: 0.7em;
+  padding-bottom: 1em;
 }
