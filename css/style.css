@@ -6,7 +6,7 @@
 body {
   background-color: #19a1ad;
   font-size: 1em;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+  font-family: 'Kumbh Sans', sans-serif;
     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   max-width: 1200px;
   background-image: url('../img/bg-pattern-top.svg'),
@@ -69,7 +69,7 @@ p {
   border: 0.5em solid white;
 }
 .gray {
-  color: gray;
+  color: hsl(0, 0%, 59%);
 }
 .normal {
   font-weight: normal;
