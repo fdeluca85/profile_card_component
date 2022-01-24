@@ -4,15 +4,15 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](../img/screenshot.jpg)
+![screenshot](../img/screenshot.jpg)
 
 ### Links
 
-- Solution URL: [](https://github.com/fdeluca85/profile_card_component)
-- Live Site URL: [](https://fdeluca85.github.io/profile_card_component/)
+- Solution URL: [https://github.com/fdeluca85/profile_card_component](https://github.com/fdeluca85/profile_card_component)
+- Live Site URL: [https://fdeluca85.github.io/profile_card_component/](https://fdeluca85.github.io/profile_card_component/)
 
 
 ## Author
 
-- gitHub - [](https://github.com/fdeluca85)
+- gitHub - [github](https://github.com/fdeluca85)
 - Frontend Mentor - [@fdeluca85](https://www.frontendmentor.io/profile/fdeluca85)
