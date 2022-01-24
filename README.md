@@ -4,7 +4,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![screenshot](../img/screenshot.jpg)
+![screenshot](./img/Screenshot_1.png)
 
 ### Links
 
